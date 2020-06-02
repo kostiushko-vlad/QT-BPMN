@@ -1,0 +1,2 @@
+XOOO_LIB_NAME = Bpmn
+XOOO_LIB_DEPENDS += xmldom
